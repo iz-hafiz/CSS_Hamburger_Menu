@@ -1,6 +1,6 @@
 # CSS_Hamburger_Menu
 
-Hamburger Menu animation create by combination of HTML, CSS and Javascript
+Hamburger Menu animation create by combination of HTML, CSS and Javascript. I do not create this from scratch. It just collection of Hamburger Menu Animation that I learned online that has modified by me.
 
 ## Left Slide
 
